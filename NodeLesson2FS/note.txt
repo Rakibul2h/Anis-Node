@@ -1,0 +1,20 @@
+Some Built in Module in node js-> http,url,path,fs
+they need not to install
+
+
+->Fs Module:
+    ->Async:
+    ->writeFile()
+    ->appendFile()
+    ->readFile()
+    ->rename()
+    ->Unlink()
+    ->Exits()
+
+    ->sync:
+    ->writeFileSync()
+    ->appendFileSync()
+    ->readFileSync()
+    ->renameSync()
+    ->UnlinkSync()
+    ->ExitsSync()
